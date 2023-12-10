@@ -1,7 +1,7 @@
 # slide-pipe
 Pipe slides you are photographing from a conference / presentation / whatever with your phone directly to your computer clipboard. The pipe not only creates a "shared clipboard" but also pre-processes the image to only get the slide and not all conference participants. 
 Here is an example from some of Uncle Bob Martins youtube videos (https://www.youtube.com/watch?v=o_TH-Y78tt4). The input image is the left and the green one gets extracted and piped to the clipboard:
-![Alt text](image.png)
+![Alt text](images/example_uncle_bob.png)
 
 ## Prerequisites 
 - You need a shared folder between your phone and your computer. I have my own NAS with a WebDAV server running mounted on my computer. Photos are synced automatically to the NAS.
